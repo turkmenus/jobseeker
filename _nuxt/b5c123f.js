@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[47],{445:function(e,n,t){"use strict";t.r(n);var l={},c=t(59),component=Object(c.a)(l,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("h2",[e._v("Settings nested Page")])}),[],!1,null,null,null);n.default=component.exports}}]);
